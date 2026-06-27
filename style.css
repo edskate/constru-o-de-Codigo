@@ -1,0 +1,16 @@
+div{
+    color: rgb(0, 0, 0);
+    border: 3px solid red;
+    border-radius: 2px 2px 2px #000;
+    box-shadow: 2px 2px 2px #000;
+    text-align: center;
+}
+
+p{
+    color: red;
+    
+}
+body{
+    background-color: #f7e6e6;
+    text-align: center;
+}
